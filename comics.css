@@ -1,0 +1,31 @@
+.main{
+    height: 100%;
+    width: 100%; 
+}
+.first{
+    margin: 0px 0px 0px 0px;
+    display: grid;
+    grid-template: 1fr 1fr/ 30% 30%
+}
+.first1{
+    height: 100%;
+    width: 100%;
+}
+.second{
+    margin: 0px 0px 0px 0px;
+    display: grid;
+    grid-template: 1fr 1fr 1fr/ 33% 33% 33%
+}
+.second2{
+    height: 100%;
+    width: 100%;
+}
+.third{
+    margin: 0px 0px 0px 0px;
+    display: grid;
+    grid-template: 1fr 1fr 1fr 1fr/ 25% 25% 25% 25%
+}
+.third3{
+    height: 100%;
+    width: 100%;
+}
